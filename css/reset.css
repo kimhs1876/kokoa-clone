@@ -1,4 +1,3 @@
-,
 sup,
 tt,
 var,
@@ -90,4 +89,9 @@ table {
 
 input:focus {
   outline: none;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
 }
